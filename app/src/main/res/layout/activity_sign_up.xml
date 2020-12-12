@@ -15,7 +15,7 @@
         android:id="@+id/signUpEmailEditTextId"
         android:inputType="textEmailAddress"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
-        android:hint="Email"
+        android:hint="Email Address"
         android:textColorHint="#ffffff"
         android:textColor="#ffffff"
         />
@@ -47,7 +47,7 @@
         android:textColor="#ffffff"
         android:gravity="center"
         android:layout_marginTop="20dp"
-        android:text="Are You Not registered? Sign Up"
+        android:text="Thank You :)"
         />
 
     <ProgressBar
